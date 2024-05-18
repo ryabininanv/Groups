@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/group_menuitem"
+        android:title="Группы" />
+
+    <item
+        android:id="@+id/form_menuitem"
+        android:title="Формы обучения" />
+
+    <item android:id="@+id/speciality_menuitem"
+        android:title="Специальности" />
+
+    <item
+        android:id="@+id/qualification_menuitem"
+        android:title="Квалификации" />
+</menu>
